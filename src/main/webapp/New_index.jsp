@@ -10,7 +10,7 @@
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" crossorigin="anonymous">
 
-<style>
+<style> 
 :root{--ink:#171717;--cream:#f7f4ee;--paper:#fffdf9;--orange:#e85d04;--orange2:#c94d00;--yellow:#ffba08;--green:#2a9d62;--gray:#777;--line:#e7e1d7;--shadow:0 14px 45px rgba(30,25,18,.09);--max:1180px}
 *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--cream);color:var(--ink);font-family:"DM Sans",Arial,sans-serif;line-height:1.5}button,input{font:inherit}button{cursor:pointer}a{color:inherit;text-decoration:none}img{display:block;max-width:100%}
 .container{width:min(var(--max),calc(100% - 36px));margin:auto}
